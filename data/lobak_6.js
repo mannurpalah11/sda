@@ -1,0 +1,1 @@
+var json_lobak_6 = {"type":"FeatureCollection","name":"lobak_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":32.0,"x":109.8251,"y":-7.2571,"ket":"lobak"},"geometry":{"type":"Point","coordinates":[109.825097,-7.257103]}}]}

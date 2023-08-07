@@ -1,0 +1,1 @@
+var json_mataair_5 = {"type":"FeatureCollection","name":"mataair_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":5.0,"x":109.82761,"y":-7.25628,"ket":"mata air"},"geometry":{"type":"Point","coordinates":[109.827611,-7.256277]}}]}
